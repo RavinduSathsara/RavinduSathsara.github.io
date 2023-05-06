@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7184c99e.css",
+    "main.js": "/static/js/main.3eefb846.js",
+    "static/js/787.8befc5c3.chunk.js": "/static/js/787.8befc5c3.chunk.js",
+    "static/media/Ravindu_Sathsara.pdf": "/static/media/Ravindu_Sathsara.cf1720028fd0f7b7ec3a.pdf",
+    "static/media/hero.jpg": "/static/media/hero.5e05ffcb85fc639d514e.jpg",
+    "index.html": "/index.html",
+    "main.7184c99e.css.map": "/static/css/main.7184c99e.css.map",
+    "main.3eefb846.js.map": "/static/js/main.3eefb846.js.map",
+    "787.8befc5c3.chunk.js.map": "/static/js/787.8befc5c3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7184c99e.css",
+    "static/js/main.3eefb846.js"
+  ]
+}
